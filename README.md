@@ -17,7 +17,7 @@ Here are some of the features of this page:
 5. The design is mobile-responsive, with a font large enough to read, colors that do not cause eye strain, and is not just a default bootstrap theme.
 
 
-Link to page:  https://elizabethdberube.github.io/Updated-Profile-Page/
+Link to page:  https://elizabethdberube.github.io/Updated-Profile/
 
 ![image](Screenshot.png)
 
