@@ -10,7 +10,7 @@ Here are some of the features of this page:
 
 2. Includes links to GitHub profile and LinkedIn profile. 
 
-3. At the bottom of the page, a user can download a PDF copy of my resume.
+3. There is contact information.
 
 4. It has Project 1 and 2 homework projects with the titles, links to deployed versions, Links to GitHub repositories, and screenshots of deployed applications. 
 
