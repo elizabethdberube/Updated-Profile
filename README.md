@@ -51,6 +51,6 @@ Link to page:  https://elizabethdberube.github.io/Updated-Profile/
 ## Pictures
 
 
-![image](./photos/Screenshot.png)
+![image](./photos/portfolio.png)
 
-![image](./photos/Screenshot2.png)
+![image](./photos/portfolio2.png)
