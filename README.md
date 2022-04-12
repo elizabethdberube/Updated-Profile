@@ -19,6 +19,6 @@ Here are some of the features of this page:
 
 Link to page:  https://elizabethdberube.github.io/Updated-Profile/
 
-![image](Screenshot.png)
+![image](./photos/Screenshot.png)
 
-![image](Screenshot2.png)
+![image](./photos/Screenshot2.png)
