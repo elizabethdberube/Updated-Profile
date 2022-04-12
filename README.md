@@ -36,17 +36,14 @@ Here are some of the features of this page:
 
 Updated portfolio page.
 
-
 ## Questions
 
 If you have any questions  then you can contact me directly at 
 
 liz@durableprogramming.com
 
-----
 
 ## Links
-
 
 Link to page:  https://elizabethdberube.github.io/Updated-Profile/
 
