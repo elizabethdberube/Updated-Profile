@@ -48,8 +48,6 @@ liz@durableprogramming.com
 Link to page:  https://elizabethdberube.github.io/Updated-Profile/
 
 
-----
-
 ## Pictures
 
 
