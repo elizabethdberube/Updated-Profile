@@ -40,7 +40,7 @@ Updated portfolio page.
 
 If you have any questions  then you can contact me directly at 
 
-liz@durableprogramming.com
+elizabethdberube@gmail.com
 
 
 ## Links
